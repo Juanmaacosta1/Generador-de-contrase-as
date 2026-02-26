@@ -1,20 +1,58 @@
-# Generador-de-contrase-as
-🔐 Generador de Contraseñas Seguras
+# 🔐 Generador de Contraseñas Seguras
 
-Este proyecto permite generar contraseñas fuertes y aleatorias de forma rápida y sencilla.
+Aplicación que permite generar contraseñas fuertes y aleatorias de forma rápida y sencilla para mejorar la seguridad digital.
 
-¿Cómo funciona?
+---
 
-El usuario indica la longitud deseada de la contraseña.
+## Descripción
 
-El codigo genera automáticamente una contraseña segura.
+El programa genera contraseñas seguras automáticamente según la longitud indicada por el usuario, utilizando diferentes tipos de caracteres para aumentar la protección.
 
-Incluye combinación de mayúsculas, minúsculas, números y símbolos.
+---
 
-Pensada para
+## ⚙️ Cómo funciona
 
-Proteger cuentas personales
+1. El usuario ingresa la longitud deseada
+2. El sistema genera una contraseña aleatoria
+3. La contraseña incluye:
 
-Crear contraseñas para sistemas y aplicaciones
+   * Mayúsculas
+   * Minúsculas
+   * Números
+   * Símbolos
 
-Mejorar la seguridad digital
+---
+
+## 🎯 Pensado para
+
+* Proteger cuentas personales
+* Crear contraseñas para sistemas o aplicaciones
+* Mejorar la seguridad online
+
+---
+
+## 🧪 Cómo ejecutar
+
+1. Descargar o clonar el repositorio
+2. Ejecutar el archivo del proyecto
+
+---
+
+##  Tecnologías
+
+* (agregá acá el lenguaje que usaste, por ejemplo:)
+* Python / JavaScript
+
+---
+
+##  Posibles mejoras
+
+* Copiar contraseña al portapapeles
+* Indicador de nivel de seguridad
+* Historial de contraseñas generadas
+
+---
+
+##  Autor
+
+Desarrollado por **Juanma Acosta**
